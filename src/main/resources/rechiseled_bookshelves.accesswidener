@@ -1,0 +1,4 @@
+accessWidener	v1	named
+
+# Fields
+accessible field net/minecraft/block/entity/ChiseledBookshelfBlockEntity books Ljava/util/Deque;
