@@ -4,12 +4,13 @@
   "version": "${version}",
 
   "name": "Rechiseled Bookshelves",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "description": "makes Chiseled Bookshelf better.",
   "authors": [
-    "DM Earth"
+    "DM Earth",
+    "Yjn024"
   ],
   "contact": {
-    "homepage": "https://github.com/DM-Earth"
+    "homepage": "https://github.com/DM-Earth/Rechiseled-Bookshelves"
   },
 
   "license": "MIT",
