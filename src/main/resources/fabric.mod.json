@@ -28,6 +28,5 @@
   },
   "suggests": {
     "quilt_loader": "*"
-  },
-  "accessWidener" : "rechiseled_bookshelves.accesswidener"
+  }
 }

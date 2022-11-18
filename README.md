@@ -1,6 +1,6 @@
 # Rechiseled Bookshelves
 
-This is a Minecraft mod for *Fabric/Quilt 1.19.3 (22w42a)* which makes **Chiseled Bookshelf** better.
+This is a Minecraft mod for *Fabric/Quilt 1.19.3 (22w46a)* which makes **Chiseled Bookshelf** better.
 
 ## Features
 

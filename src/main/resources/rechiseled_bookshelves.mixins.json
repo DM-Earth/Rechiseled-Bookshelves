@@ -4,6 +4,7 @@
   "package": "com.dm.earth.rechiseled_bookshelves.mixin",
   "compatibilityLevel": "JAVA_17",
   "mixins": [
+    "ChiseledBookshelfBlockEntityAccessor",
     "EnchantingTableBlockMixin"
   ],
   "injectors": {

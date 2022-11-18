@@ -55,7 +55,3 @@ publishing {
     repositories {
     }
 }
-
-loom {
-    accessWidenerPath = file("src/main/resources/rechiseled_bookshelves.accesswidener")
-}
